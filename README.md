@@ -1,7 +1,7 @@
 ![logo](https://github.com/rahulsaininiway-hub/rahulsaininiway-hub/blob/main/images.jpg)
 <h1 align="center">Hi 👋, I'm rahul saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="500px" src="https://media.tenor.com/cz0r12NqE24AAAAM/halo.gif">
+<img align="right" alt="coding" width="400px" src="https://media.tenor.com/cz0r12NqE24AAAAM/halo.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsaininiway-hub&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsaininiway-hub" /> </p>
 
